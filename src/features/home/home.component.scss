@@ -1,0 +1,44 @@
+
+
+.version {
+    color: #f3f0f5;
+    font-size: 1.5em;
+    padding-left: 15px;
+}
+
+.appname {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 5em;
+    color: #f3f0f5;
+  }
+
+  .btn-upload {
+    background-color: #a7bda326;
+    color: #eee;
+  }
+
+  .btn-upload:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgb(102 107 111);
+  }
+  
+  .custom-file-upload {
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    color: #39ac39;
+    cursor: pointer;
+  }
+
+  input[type="file"] {
+    display: none;
+  }
+
+  .upload-icon{
+    margin-top: 20px
+  }
+
+  .special-card {
+    height: 35em;
+  }
